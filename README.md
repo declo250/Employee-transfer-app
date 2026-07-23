@@ -1,0 +1,2 @@
+About the project
+The project presents the design, implementation, and evaluation of an Employee Transfer Management System (ETMS), a full-stack web application developed using Node.js, React.js, and MySQL. The system was designed to improve the management of employee transfers between departments, positions, or organizational locations by replacing manual and fragmented workflows with a secure and centralized digital solution. To protect sensitive employee information, the system incorporates JWT-based authentication and password hashing.
