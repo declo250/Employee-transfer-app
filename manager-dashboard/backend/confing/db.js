@@ -1,7 +1,7 @@
 const { Sequelize } = require('sequelize');
 
 // Initialize Sequelize with PostgreSQL connection
-const sequelize = new Sequelize('employee_transfer', 'dbusername', 'dbpassword', {
+const sequelize = new Sequelize('dbname', 'dbusername', 'dbpassword', {
     host: 'localhost', // Replace with your host if needed
     dialect: 'postgres', // Specifies PostgreSQL
     logging: false, // Set to true if you want to see SQL queries in the console
